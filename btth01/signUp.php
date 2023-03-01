@@ -60,12 +60,12 @@
 				<td><input type="text" id="email" name="email"></td>
 			</tr>
 		</table>
-		<a href="./login.php">
-		<div class="form-group" action="./login.php">
-            <input type="submit" value="Sign Up" class="btn float-end signup_btn">
+		
+		<div class="form-group">
+            <a href="./login.php"><input type="submit" value="Sign Up" class="btn float-end signup_btn"></a>
 			
         </div>
-			</a>
+			
 	</form>
 </div>
 </div>
