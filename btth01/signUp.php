@@ -56,7 +56,7 @@
 				<td><input type="text" id="name" name="name"></td>
 			</tr>
 			<tr>
-				<td>Email :</td>
+				<td>Email : :</td>
 				<td><input type="text" id="email" name="email"></td>
 			</tr>
 		</table>
