@@ -73,7 +73,7 @@
                     </div>
                     <div class="card-footer">
                         <div class="d-flex justify-content-center ">
-                           t?<a href="./signUp.php" class="text-warning text-decoration-none"> Don't have an accoun Sign Up</a>
+                           <a style = "color: #f3eeee;">Don't have an account?</a><a href="./signUp.php" class="text-warning text-decoration-none">  Sign Up</a>
                         </div>
                         <div class="d-flex justify-content-center">
                             <a href="#" class="text-warning text-decoration-none">Forgot your password?</a>
