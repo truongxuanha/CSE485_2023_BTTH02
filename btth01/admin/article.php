@@ -1,7 +1,8 @@
 <?php
 require './header.php';
 require '../addData.php';
-require'./function.php';
+require './function.php';
+
 $conn = addData();
 $query = "SELECT * FROM `baiviet`;";
 $result = mysqli_query($conn, $query);
