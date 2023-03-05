@@ -67,7 +67,8 @@
                                 <input type="checkbox">Remember Me
                             </div>
                             <div class="form-group">
-                                <input type="submit" value="Login" class="btn float-end login_btn">
+                                <a href="./admin/index.php" class="btn float-end login_btn">Login</a>
+            
                             </div>
                         </form>
                     </div>

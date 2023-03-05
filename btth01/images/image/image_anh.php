@@ -14,7 +14,7 @@ if (isset($_POST['submit'])) {
 // Điều kiện kiểm tra định dạng ảnh, nếu không phải ảnh không cho upload
 if ($_FILES['file_upload']['type'] == "image/jpeg" || $_FILES['uploadFile']['type'] == "image/png" || $_FILES['file_upload']['type'] == "image/gif") {
 
-$path = "images/"; // Thư mục images để lưu ảnh
+$path = "./images/image/images/"; // Thư mục images để lưu ảnh
 $tmp_name = $_FILES['file_upload']['tmp_name'];
 $name = $_FILES['file_upload']['name'];
 // Upload ảnh vào thư mục images

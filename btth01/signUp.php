@@ -62,10 +62,9 @@
 		</table>
 		
 		<div class="form-group">
-            <a href="./login.php"><input type="submit" value="Sign Up" class="btn float-end signup_btn"></a>
-			
+			 <a href="login.php" class="btn float-end signup_btn ">Sign Up</a>
         </div>
-			
+		
 	</form>
 </div>
 </div>
