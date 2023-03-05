@@ -32,7 +32,7 @@ $result = mysqli_query($conn, $query);
                                 <td><?= html_escape($row['ten_tloai'])  ?></td>
                                 
                                 <td>
-                                <a href="edit_author.php?id=<?= $row['ma_tloai'] ?>">
+                                <a href="edit_category.php?id=<?= $row['ma_tloai'] ?>">
                                     <i class="fa-solid fa-pen-to-square"></i>
                                 </a>
                                 </td>
